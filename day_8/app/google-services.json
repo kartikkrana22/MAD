@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "410031319062",
+    "project_id": "day-8-knr",
+    "storage_bucket": "day-8-knr.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410031319062:android:9ba31988bdd98859c3ad37",
+        "android_client_info": {
+          "package_name": "com.techiguru.day_8"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtCAyEmOHafp_5wmjjRMCw1xL4p_yoE9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

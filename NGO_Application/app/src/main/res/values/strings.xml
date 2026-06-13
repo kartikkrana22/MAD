@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">NGO</string>
+    <string name="splash_title">Helping Hands</string>
+    <string name="splash_subtitle">Small actions, collective change.</string>
+    <string name="splash_status">Loading...</string>
+
+    <!-- Login Screen -->
+    <string name="login_welcome">Welcome Back</string>
+    <string name="login_subtitle">Log in to manage your donations and track your impact progress.</string>
+    <string name="label_email">Email Address</string>
+    <string name="hint_email">alex@example.com</string>
+    <string name="label_password">Password</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="keep_me_logged_in">Keep me logged in for 30 days</string>
+    <string name="btn_log_in">Log In</string>
+    <string name="or_continue_with">OR CONTINUE WITH</string>
+    <string name="btn_google">Google</string>
+    <string name="btn_facebook">Facebook</string>
+    <string name="new_user_prompt">New to UnityImpact? </string>
+    <string name="hint_password">••••••••</string>
+    <string name="create_account">Create an account</string>
+    <string name="copyright_text">© 2024 UnityImpact NGO. All rights reserved.</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="terms_of_service">Terms of Service</string>
+
+    <!-- Register Screen -->
+    <string name="register_title">Join the Community</string>
+    <string name="register_subtitle">Create an account to start making an impact.</string>
+    <string name="label_full_name">Full Name</string>
+    <string name="hint_full_name">Alex Rivers</string>
+    <string name="hint_email_org">alex@unityimpact.org</string>
+    <string name="label_confirm_password">Confirm Password</string>
+    <string name="agree_terms_text">I agree to the Terms of Service and Privacy Policy.</string>
+    <string name="btn_sign_up">Sign Up</string>
+    <string name="already_have_account">Already have an account? </string>
+    <string name="log_in_label">Log in</string>
+
+    <!-- Reset Password Screen -->
+    <string name="reset_password_title">Reset Password</string>
+    <string name="reset_password_subtitle">Enter your email address and we\'ll send you a link to reset your password.</string>
+    <string name="label_new_password">New Password</string>
+    <string name="hint_email_generic">name@example.com</string>
+    <string name="btn_reset_password">Reset Password</string>
+    <string name="back_to_login">Back to Login</string>
+    <string name="expiry_note">Secure link expires in 24 hours</string>
+    <string name="footer_empowering">© 2024 UnityImpact. Empowering communities together.</string>
+
+    <!-- Main Activity -->
+    <string name="main_greeting">Welcome back, %s!</string>
+    <string name="impact_title">Your Total Impact</string>
+    <string name="impact_value">$1,240.00</string>
+    <string name="impact_desc">12 lives changed this month</string>
+    <string name="projects_title">Featured Projects</string>
+    <string name="project_1_title">Clean Water Initiative</string>
+    <string name="project_1_desc">Providing safe drinking water to rural areas.</string>
+    <string name="project_2_title">Education for All</string>
+    <string name="project_2_desc">Empowering children with quality education.</string>
+    <string name="recent_activity_title">Recent Activity</string>
+    <string name="activity_1">Donated $50 to Clean Water</string>
+    <string name="activity_1_time">2 hours ago</string>
+    <string name="btn_view_all">View All</string>
+    <string name="desc_profile">Profile</string>
+    <string name="desc_notifications">Notifications</string>
+    <string name="activity_amount">+$50</string>
+    <string name="search_hint">Search projects, news&#8230;</string>
+    <string name="category_all">All</string>
+    <string name="category_education">Education</string>
+    <string name="category_health">Health</string>
+    <string name="category_nature">Nature</string>
+    <string name="active_volunteers">2.4k Active Volunteers</string>
+    <string name="upcoming_projects">Upcoming Projects</string>
+    <string name="funded_85">85% Funded</string>
+    <string name="target_10k">Target: $10,000</string>
+    <string name="days_12_left">12 Days Left</string>
+    <string name="good_morning">Good Morning,</string>
+    <string name="good_afternoon">Good Afternoon,</string>
+    <string name="good_evening">Good Evening,</string>
+    <string name="good_night">Good Night,</string>
+    <string name="user_name_placeholder">Kartikey Rana</string>
+</resources>

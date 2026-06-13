@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "876434243320",
+    "project_id": "jinoo-ec681",
+    "storage_bucket": "jinoo-ec681.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876434243320:android:15e596d4a4120d633cc50d",
+        "android_client_info": {
+          "package_name": "com.techiguru.jinookartikey"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnFmFFgg8q2XzfZIoxmfq6XLzPJdLU2ZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
