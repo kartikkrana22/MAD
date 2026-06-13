@@ -10,6 +10,10 @@ android {
         }
     }
 
+    buildFeatures {
+        buildConfig true
+    }
+
     defaultConfig {
         applicationId "com.techiguru.careersuggestion"
         minSdk 26
@@ -18,6 +22,14 @@ android {
         versionName "1.0"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+
+        def localProperties = new Properties()
+        def localPropertiesFile = rootProject.file('local.properties')
+        if (localPropertiesFile.exists()) {
+            localProperties.load(new FileInputStream(localPropertiesFile))
+        }
+        def groqApiKey = localProperties.getProperty('GROQ_API_KEY') ?: "YOUR_GROQ_API_KEY"
+        buildConfigField "String", "GROQ_API_KEY", "\"${groqApiKey}\""
     }
 
     buildTypes {

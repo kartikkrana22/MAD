@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
     Button bt_suggest;
     TextView tv_result;
     EditText et_interest;
-    String groq_key = "YOUR_GROQ_API_KEY";
+    String groq_key = BuildConfig.GROQ_API_KEY;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
